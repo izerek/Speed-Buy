@@ -1,0 +1,16 @@
+# Visual Studio 相关缓存
+.vs/
+*.ipch
+*.pdb
+*.ilk
+*.obj
+
+# 编译输出目录（根据你的截图添加）
+Debug/
+Release/
+x64/
+x86/
+
+# 如果你以后想忽略内层项目的编译输出，也可以加上：
+**/Debug/
+**/x64/
